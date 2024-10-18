@@ -1,0 +1,1 @@
+cout << "Your remainding total is $" << total << "\n";
