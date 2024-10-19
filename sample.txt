@@ -46,7 +46,7 @@ int main(){
     {  
         switch (type) {  // Withdrawal
             case 'W': 
-                cout << "Withdrawing $" << amttrans << "\n";
+                cout << "Withdrawing $" << amttrans << "\n";s
                 total -= amttrans; // reduces from the current total 
                 wtotal += amttrans; // subtracts from the total amount withdrawn
                 break;
